@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshik Duwal</h1>
+<h1 align="center">Hi 👋, I'm Swastika Thing</h1>
 <h3 align="center">Software Developer | React | TypeScript | Nodejs | ASP.NET Web API | SQL | </h3>
  
 <p align="center">
@@ -14,7 +14,8 @@ I'm a passionate **Software Developer** focused on building robust, scalable app
 ---
 ## 📫 Connect with Me
  
-- **LinkedIn**: [Roshik Duwal](https://www.linkedin.com/in/roshikduwal/)  
+- **LinkedIn**: https://www.linkedin.com/in/swastika-thing-b4a628232/
+  
  
 ---
  
